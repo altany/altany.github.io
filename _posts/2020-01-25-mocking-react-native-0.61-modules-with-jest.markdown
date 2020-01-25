@@ -15,7 +15,7 @@ Prior to React Native 0.61, haste was used to map the individual module files. I
 jest.mock("Button", () => {});
 ```
 
-React Native 0.61 dropped support for haste, whic means that all these mocks don't work anymore and we started getting a bunch of errors such as:
+React Native 0.61 dropped support for haste, which means that all these mocks don't work anymore and we started getting a bunch of errors such as:
 
 > **Cannot find module 'Button'**
 
@@ -67,7 +67,7 @@ I had issues when I followed this approach and my tests didn't seem to get mocke
 
 > **'Couldn't read OS of undefined'**
 
-What worked for me instead was to mock react-native manually inside the `__mocks__` folder. So I created a `react-native.js` file with this content:
+What worked for me instead was to mock react-native manually inside the `tests/__mocks__` folder. So I created a `react-native.js` file with this content:
 
 ```javascript
 import * as ReactNative from "react-native";
