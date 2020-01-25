@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Tania Papazafeiropoulou
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### Web developer
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi, I'm Tania and I am a web developer. I am currently working for [OLIO](https://olioex.com/) as a React Native developer.
 
-
-[jekyll-organization]: https://github.com/jekyll
+You can find my personal website at [tany4.com](http://tany4.com).
